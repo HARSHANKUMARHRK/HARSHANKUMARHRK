@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as SDE Intern <br>👯 I’m looking to collaborate on ML related project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Machine learning and Devops<br><br>
+🔭 I’m currently working as Gen-AI Intern at GrowthArc <br>👯 I’m looking to collaborate on ML related project<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Machine learning and Devops<br><br>
 
 
 ## 🌐 Socials:
